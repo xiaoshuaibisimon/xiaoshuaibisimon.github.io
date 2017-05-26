@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://leanote.com/api/file/getImage?fileId=592887efab64410536000130');
+    background-image:url('https://leanote.com/api/file/getImage?fileId=59288736ab644102ae00012a');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
